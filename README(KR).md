@@ -6,7 +6,7 @@
 - 현황 조사 결과에 따르면 쓰레기 발생량은 계속 증가하고 주민들은 쓰레기 불법투기로 인한 불편을 겪고 있음.
 - 이를 해결하기 위해 가로 쓰레기통과 무단투기 방지 CCTV의 추가 설치가 필요하며, 이를 위한 최적 위치를 조사하고 제안.
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4",width="20%" height="30%">
 </p>  
 
 ### **분석 데이터:**
@@ -45,10 +45,6 @@
  3. **P-median 모델 적용**: 생성된 수요지점과 후보지 데이터를 P-median 모델에 적용하여 최적 입지 도출.
  4. **Filter 적용**: 쓰레기통 간 거리 정책을 고려하여 신규 최적입지와 기존 쓰레기통 위치 간 거리가 100m 미만인 경우 해당 신규 최적입지 선택 제외.
 이 방법을 통해 쓰레기통 최적 위치를 선정하고 도시 청결 문제에 대한 효과적인 대응을 기획하고 있음.
-
-<p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/c3caae0f-67c5-47d2-b4db-0ce54b530738">
-</p>  
 
 ### **1. 쓰레기통 최적 위치 설정:**
 
