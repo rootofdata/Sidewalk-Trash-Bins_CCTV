@@ -6,7 +6,7 @@
 - 현황 조사 결과에 따르면 쓰레기 발생량은 계속 증가하고 주민들은 쓰레기 불법투기로 인한 불편을 겪고 있음.
 - 이를 해결하기 위해 가로 쓰레기통과 무단투기 방지 CCTV의 추가 설치가 필요하며, 이를 위한 최적 위치를 조사하고 제안.
 <p align="center">
- (![image](https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4)">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4">
 </p>  
 
 **분석 데이터:**
