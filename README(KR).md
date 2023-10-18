@@ -6,7 +6,7 @@
 - 현황 조사 결과에 따르면 쓰레기 발생량은 계속 증가하고 주민들은 쓰레기 불법투기로 인한 불편을 겪고 있음.
 - 이를 해결하기 위해 가로 쓰레기통과 무단투기 방지 CCTV의 추가 설치가 필요하며, 이를 위한 최적 위치를 조사하고 제안.
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4",width="20%" height="30%">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4",,width="300" height="600/">
 </p>  
 
 ### **분석 데이터:**
@@ -53,7 +53,7 @@
 - 최종적으로 우선 설치가 필요한 행정동과 해당 행정동 내의 최적 쓰레기통 위치를 제안함
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/73b28fb1-86ed-4cea-93fe-618836bebc58">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/73b28fb1-86ed-4cea-93fe-618836bebc58",width="900" height="450/">
 </p>  
 
 #### **1.	GIS 공간분석**
@@ -68,7 +68,7 @@
 - 본 연구에서는 각 구청의 쓰레기통간 거리 정책을 고려해 신규 최적입지와 기존 쓰레기통 위치의 거리가 100m 미만이라면 해당 신규 최적입지는 채택하지 않음.
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/31d01855-1a6b-49ef-8de2-8cf967fcbbd4">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/31d01855-1a6b-49ef-8de2-8cf967fcbbd4",width="900" height="450/">
 </p>  
 
 ### **2. 무단투기 방지 CCTV 최적 위치 설정:**
@@ -77,7 +77,7 @@
 - CCTV가 부족한 행정동을 식별하고, 해당 행정동 내의 최적 CCTV 설치 위치를 제안함
   
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/d70454c9-e72b-404c-8815-5e04a5a59ad7">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/d70454c9-e72b-404c-8815-5e04a5a59ad7",width="900" height="450/">
 </p>  
 
 #### **1.	GIS 공간분석**
@@ -93,7 +93,7 @@
 - 각 구성요소와 가중치, 상권면적지수를 통해 최종 우선설치지수가 산출된 후 각 지수를 등급화 시켜 우선설치지역 선정  
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/7b1f3780-95e1-44a5-8b30-85ad3dab37a5">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/7b1f3780-95e1-44a5-8b30-85ad3dab37a5",width="600" height="300/">
 </p>  
 
 ## **분석 결과**
