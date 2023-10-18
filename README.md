@@ -67,7 +67,7 @@
 - Proposed optimal trash bin locations within these priority administrative districts.  
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/73b28fb1-86ed-4cea-93fe-618836bebc58",width="700" height="350/">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/73b28fb1-86ed-4cea-93fe-618836bebc58",width="800" height="400/">
 </p>  
 
 #### **1. GIS Spatial Analysis:**  
@@ -82,7 +82,7 @@
   - Excluded new optimal locations if the distance between them and existing bins was less than 100m, adhering to each district's trash bin distance policy.  
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/31d01855-1a6b-49ef-8de2-8cf967fcbbd4">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/31d01855-1a6b-49ef-8de2-8cf967fcbbd4",width="800" height="400/">
 </p>  
 
 ### **2. Setting Optimal Locations for Unauthorized Dumping Prevention CCTV:**
@@ -92,7 +92,7 @@
 - Proposed optimal locations for new CCTVs within these priority administrative districts.
   
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/d70454c9-e72b-404c-8815-5e04a5a59ad7">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/d70454c9-e72b-404c-8815-5e04a5a59ad7",width="800" height="400/">
 </p>  
 
 #### **1. GIS Spatial Analysis:**
@@ -109,7 +109,7 @@
 - Ranked each indicator based on components, weights, and business district area index to select priority installation areas.
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/7b1f3780-95e1-44a5-8b30-85ad3dab37a5">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/7b1f3780-95e1-44a5-8b30-85ad3dab37a5",width="800" height="400/">
 </p>  
 
 ## **Analysis Results:**
