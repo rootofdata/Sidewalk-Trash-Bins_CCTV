@@ -33,7 +33,6 @@
 ### **Analysis Tools:**:
 - **R, Python:** Utilized for visualization, GIS spatial analysis, P-median analysis, AHP, and other analytical processes.
 
-
 ## **Analysis Content:**
 
 ### **Algorithms and Methodologies:**
@@ -68,7 +67,7 @@
 - Proposed optimal trash bin locations within these priority administrative districts.  
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/73b28fb1-86ed-4cea-93fe-618836bebc58">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/73b28fb1-86ed-4cea-93fe-618836bebc58",width="600" height="300/">
 </p>  
 
 #### **1. GIS Spatial Analysis:**  
