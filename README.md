@@ -8,7 +8,7 @@
 - The optimal locations for these installations need to be researched and proposed.
 
 <p align="center">
- <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4",width="200" height="400/">
+ <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4",width="300" height="600/">
 </p>  
 
 ### **Analysis Data:**
