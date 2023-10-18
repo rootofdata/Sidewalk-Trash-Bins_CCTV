@@ -1,4 +1,4 @@
-# **Proposal for Installation of Sidewalk Trash Bins in Gangseo-gu**
+# **Proposal for Installation of Sidewalk Trash Bins and CCTV in Gangseo-gu**
 
 ## **Analysis Overview:**
 
