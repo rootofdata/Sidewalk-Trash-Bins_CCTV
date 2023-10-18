@@ -4,7 +4,8 @@
 
 - In Gangseo-gu, Seoul, the issue of illegal dumping has significantly worsened, leading to a decline in urban cleanliness.  
 - According to recent surveys, the amount of generated trash continues to rise, causing inconvenience to residents due to unauthorized dumping.  
-- To address this problem, it is necessary to install sidewalk trash bins and additional CCTV cameras to prevent illegal dumping. The optimal locations for these installations need to be researched and proposed.
+- To address this problem, it is necessary to install sidewalk trash bins and additional CCTV cameras to prevent illegal dumping.
+- The optimal locations for these installations need to be researched and proposed.
 
 <p align="center">
  <img src="https://github.com/rootofdata/Gangseo-gu_contest/assets/86711374/521e5bdc-259b-4e9a-857c-6a30ffd3c0a4",width="20%" height="30%">
@@ -49,17 +50,17 @@
 ### **Analysis Procedures:**
 
 1. **Demand Point Generation:**  
-  - Utilized data on the local population per business district in Gangseo-gu to generate demand points.  
+    -  Utilized data on the local population per business district in Gangseo-gu to generate demand points.  
 
 2. **Establishment of Candidate Site Selection Criteria:**  
-  - Utilized environmental factor data to establish criteria for trash bin installation. Integrated existing trash bin locations as candidate sites.  
+    -  Utilized environmental factor data to establish criteria for trash bin installation. Integrated existing trash bin locations as candidate sites.  
 
 3. **Application of the P-median Model:**  
-  - Applied the P-median model to generated demand points and candidate site data to determine optimal locations.  
+    -  Applied the P-median model to generated demand points and candidate site data to determine optimal locations.  
   
 4. **Application of Filters:**  
-  - Considered the distance policy between trash bins set by district offices.  
-  - Excluded new optimal locations if the distance between them and existing bins was less than 100m, ensuring optimal trash bin selection and effective responses to urban cleanliness issues.  
+    -  Considered the distance policy between trash bins set by district offices.  
+    -  Excluded new optimal locations if the distance between them and existing bins was less than 100m, ensuring optimal trash bin selection and effective responses to urban cleanliness issues.  
 
 ### **1. Setting Optimal Locations for Trash Bins:**  
 - Analyzed the need for trash bins in each administrative district to address shortages.  
